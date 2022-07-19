@@ -25,6 +25,18 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+	<dependency>
+  <groupId>dev.cerus</groupId>
+  <artifactId>maps</artifactId>
+  <version>1.0.7</version>
+  <type>pom</type>
+</dependency>
+<dependency>
+  <groupId>io.purchasely</groupId>
+  <artifactId>amazon</artifactId>
+  <version>3.3.0</version>
+  <type>aar</type>
+</dependency>
   </dependencies>
 
   <build>
